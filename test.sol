@@ -1,3 +1,6 @@
+// A fájl Oláh Bence munkája
+// Ezen az okosszerződésen teszteltem először az ESP-vel történő kommunikációt
+
 pragma solidity >=0.8.0 <0.9.0;
 contract Data {
 	uint256 private price ;
